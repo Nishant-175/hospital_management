@@ -147,6 +147,7 @@ public:
 
 // Base InventoryItem class
 cout<<"This inventory class is created by Nishant Awasthi"<<endl;
+cout<<"Nishant is Great"<<endl;
 class InventoryItem {
 protected:
     int itemID;
