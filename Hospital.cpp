@@ -146,6 +146,7 @@ public:
 };
 
 // Base InventoryItem class
+cout<<"This inventory class is created by Nishant Awasthi"<<endl;
 class InventoryItem {
 protected:
     int itemID;
